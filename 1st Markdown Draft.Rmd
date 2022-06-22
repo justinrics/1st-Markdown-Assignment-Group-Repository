@@ -1,0 +1,44 @@
+---
+Title: "1st R Markdown"
+Author: "Justin Ricafort, Andrew Go Alcantara, Carlo Velonza, Brix Mayabason, Louis De los Santos"
+Date: '2022-06-24'
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **First Markdown**
+## Louis De Los Santos, Andrew Go Alcantara, Justin Ricafort, Carlo Velonza, Brix Mayabason
+
+### Questions
+
+**Aside from the reasons menti5oned in class, why do we need to study and analyze data?**
+
+Louis:<br />\newline
+Andrew:<br />\newline
+Justin: Aside from making data more digestible to the common people, data needs to be analyzed and studied because it tells our story. Data shows what, when and how we do the things we do. By analyzing and studying data, we are better able to predict how people will react. From this, those who are better able to understand and analyze said data will have the upper hand in their field as they are better able to anticipate and predict their competition's tendencies. These can apply in Economics, sports, logistics, e-commerce, etc. <br />\newline 
+Carlo:<br />\newline
+Brix:<br />\newline
+
+**Cite atleast one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.**
+
+Louis:<br />\newline
+Andrew:<br />\newline
+Justin: One of the most famous examples wherein data science was used was during the 2002 MLB Season wherein the world was introduced to the "Moneyball Theory", which looks at percentages of how well a player hits and gets to bases. This deviated from the common scouting practice wherein scouts were looking for players who "exhibited a 'fluid arm action and easy release”(Wasserman et. al., 2005) Basically, the theory favored percentages over how well a player looks when batting. A more familiar example would be "Moreyball" for basketball, wherein, the 2 most efficient shots were the main focus of the offense, layups and three pointers.\newline
+Carlo:<br />\newline
+Brix:<br />\newline
+
+**Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.**
+
+Louis:<br />\newline
+Andrew:<br />\newline
+Justin: I think I want to pursue is the application of machine learning in economics, wherein a program can directly learn and analyze trends from different worldwide economies. Allowing us to see what works, and what won't and predict how well certain policies will work. The data for such should be very abundant given that there are lots of economic data generated. Such data range from GDP(Gross Domestic Product), CPI(Consumer Price Index), Gini Index/Coefficient. As for statistical methods, I think the Poisson Distribution Probability can be used to determine how good or bad a policy is likely to occur based on past performances from different economies. Obviously, it would be difficult to ascertain whether policies will work given the vast differences in factors between differeint economies.<br />\newline   
+Carlo:<br />\newline
+Brix:<br />\newline
+
+## Image Test (Copy paste code below, everything inside () is path file)
+![](C:\Users\JusRics16\Downloads\AHHH.jpg)
