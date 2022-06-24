@@ -46,16 +46,16 @@ Brix:I would pursue Data Visualization, mainly focusing on the data that will be
 ![](C:\Users\JusRics16\Downloads\AHHH.jpg)
 
 **References** 
-(Ateneo, 2022) https://www.ateneo.edu/news/2022/05/02/fassster-recognized-doh-its-covid-19-monitoring-platform
-(DOH, 2022)
-https://www.pchrd.dost.gov.ph/wp-content/uploads/2022/03/FASSSTER.pdf
+(Ateneo, 2022) https://www.ateneo.edu/news/2022/05/02/fassster-recognized-doh-its-covid-19-monitoring-platform <br />\newline
+(DOH, 2022) https://www.pchrd.dost.gov.ph/wp-content/uploads/2022/03/FASSSTER.pdf <br />\newline
 
-(Sharma, 2021)
-https://www.upgrad.com/blog/data-science-project-ideas-topics-beginners/
+(Wasserman, 2005) https://thesportjournal.org/article/an-examination-of-the-moneyball-theory-a-baseball-statistical-analysis/<br />\newline
 
-(CDC, 2021) https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html
-(CDC, 2022) https://www.cdc.gov/vaccines/covid-19/effectiveness-research/protocols.html
-(CDC, 2022) https://covid.cdc.gov/covid-data-tracker/#vaccine-effectiveness
-(CDC, 2022) https://www.cdc.gov/mmwr/volumes/71/wr/mm7118a4.htm
+(Sharma, 2021)https://www.upgrad.com/blog/data-science-project-ideas-topics-beginners/<br />\newline
+
+(CDC, 2021) https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html <br />\newline
+(CDC, 2022) https://www.cdc.gov/vaccines/covid-19/effectiveness-research/protocols.html <br />\newline
+(CDC, 2022) https://covid.cdc.gov/covid-data-tracker/#vaccine-effectiveness <br />\newline
+(CDC, 2022) https://www.cdc.gov/mmwr/volumes/71/wr/mm7118a4.html <br />\newline
 
 
