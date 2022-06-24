@@ -49,7 +49,7 @@ Brix:I would pursue Data Visualization, mainly focusing on the data that will be
 (Ateneo, 2022) https://www.ateneo.edu/news/2022/05/02/fassster-recognized-doh-its-covid-19-monitoring-platform <br />\newline
 (DOH, 2022) https://www.pchrd.dost.gov.ph/wp-content/uploads/2022/03/FASSSTER.pdf <br />\newline
 
-(Wasserman, 2005) https://thesportjournal.org/article/an-examination-of-the-moneyball-theory-a-baseball-statistical-analysis/<br />\newline
+Wassermann, E., Czech, D., Wilson, M., & Joyner, A. B. (2015, March 20). An Examination of the Moneyball Theory: A Baseball Statistical Analysis. The Sport Journal. Retrieved June 24, 2022, from https://thesportjournal.org/article/an-examination-of-the-moneyball-theory-a-baseball-statistical-analysis/<br />\newline
 
 (Sharma, 2021)https://www.upgrad.com/blog/data-science-project-ideas-topics-beginners/<br />\newline
 
